@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bouxtieinc.pages.dev/sitemap.xml
